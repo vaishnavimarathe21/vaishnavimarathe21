@@ -1,16 +1,12 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/vmarathe21">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:marathekhushi6@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
   <a href="https://www.codechef.com/users/rcp_221107017">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="25" />
   </a>
 </div>
 
@@ -20,19 +16,16 @@
 
 ---
 
-# 👋 Hii, I'm **Vaishnavi Narottam Marathe**  
-🎓 AI & ML Engineering Student | 🧠 Problem Solver | 💡 Innovator
+<h1 align="center">👋 Hii, I'm <strong>Vaishnavi Narottam Marathe</strong></h1>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm an enthusiastic AI & ML engineering student from Maharashtra, India.  
-
-- 🔭 Currently building intelligent systems with Deep Learning, YOLOv9, and AWS  
-- 🌱 Exploring Transfer Learning, Model Optimization, and Real-Time AI Applications  
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning @ RC Patel Institute of Technology, Shirpur  
-- 💬 Ask me about Python, Java, Machine Learning, or anything AI-related!
+- 🎓 **Education**: B.Tech in Artificial Intelligence & Machine Learning  
+  RC Patel Institute of Technology, Shirpur (MH), India  
+- 💡 **Passion**: Building intelligent systems using AI/ML, real-time applications, and cloud-based solutions  
+- 📬 **Reach me at**: [marathekhushi6@gmail.com](mailto:marathekhushi6@gmail.com)
 
 ---
 
@@ -56,17 +49,17 @@ I'm an enthusiastic AI & ML engineering student from Maharashtra, India.
 
 ### 💻 Major Projects
 
-- 💉 **Child Vaccination Reminder System**  
+- 💉 **VacciNow – Child Vaccination Reminder System**  
   Java | HTML | CSS | SMS Alerts | Web + DB  
   > Automates vaccine tracking with timely SMS reminders for better healthcare compliance.
-
-- 🏦 **Bank Management System**  
-  Java | HTML | CSS  
-  > Secure online banking system with user authentication, balance inquiry, and transaction management.
 
 - 🌊 **Marine Species Detection System**  
   Python | YOLOv9 | Computer Vision  
   > Detects marine species from underwater images, supporting marine research and conservation.
+
+- 🧑‍🎓 **Facial Nexus – Face Recognition Attendance Tracking System**  
+  Python | OpenCV | Face Recognition  
+  > Automates attendance using facial recognition and real-time verification.
 
 - 🎓 **AI-Powered E-Learning Platform**  
   AWS PartyRock | AI Personalization  
@@ -88,17 +81,14 @@ I'm an enthusiastic AI & ML engineering student from Maharashtra, India.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" />
 </div>
 
 ---
