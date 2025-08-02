@@ -20,7 +20,8 @@
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Vaishnavi Narottam Marathe</h1>
+# 👋 Hii, I'm **Vaishnavi Narottam Marathe**
+🎓 AI & ML Engineering Student | 🧠 Problem Solver | 💡 Innovator
 
 ---
 
@@ -28,9 +29,9 @@
 
 I'm an enthusiastic AI & ML engineering student from Maharashtra, India.  
 
-- 🔭 Currently building intelligent systems with Deep Learning, YOLOv9, and AWS.  
-- 🌱 Exploring Transfer Learning, Model Optimization, and Real-Time AI Applications.  
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning @ RC Patel Institute of Technology, Shirpur.  
+- 🔭 Currently building intelligent systems with Deep Learning, YOLOv9, and AWS  
+- 🌱 Exploring Transfer Learning, Model Optimization, and Real-Time AI Applications  
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning @ RC Patel Institute of Technology, Shirpur  
 - 💬 Ask me about Python, Java, Machine Learning, or anything AI-related!
 
 ---
@@ -95,5 +96,14 @@ I'm an enthusiastic AI & ML engineering student from Maharashtra, India.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vaishnavimarathe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
+  <img src="https://streak-stats.demolab.com?user=vaishnavimarathe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavimarathe&layout=compact&theme=tokyonight" height="180" />
 </div>
+
+---
+
+### 💬 Fun Fact
+
+> “I believe in coding with purpose and learning with passion 🌟”  
+Let’s connect and build something meaningful together!
