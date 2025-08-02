@@ -20,7 +20,7 @@
 
 ---
 
-# 👋 Hii, I'm **Vaishnavi Narottam Marathe**
+# 👋 Hii, I'm **Vaishnavi Narottam Marathe**  
 🎓 AI & ML Engineering Student | 🧠 Problem Solver | 💡 Innovator
 
 ---
@@ -33,6 +33,16 @@ I'm an enthusiastic AI & ML engineering student from Maharashtra, India.
 - 🌱 Exploring Transfer Learning, Model Optimization, and Real-Time AI Applications  
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning @ RC Patel Institute of Technology, Shirpur  
 - 💬 Ask me about Python, Java, Machine Learning, or anything AI-related!
+
+---
+
+### 🎯 Interests
+
+- 🤖 Artificial Intelligence & Computer Vision  
+- 📊 Data Analytics & Visualization  
+- 🧠 Deep Learning & NLP  
+- ☁️ Cloud Computing (AWS & GCP)  
+- 🎨 UI/UX Interface Design  
 
 ---
 
