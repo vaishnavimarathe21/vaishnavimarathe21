@@ -1,22 +1,20 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/vmarathe21">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:marathekhushi6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.codechef.com/users/rcp_221107017">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="25" />
-  </a>
+  <h1>👋 Hii, I'm <strong>Vaishnavi Narottam Marathe</strong>
+    <a href="https://www.linkedin.com/in/vmarathe21">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
+    </a>
+    <a href="mailto:marathekhushi6@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" />
+    </a>
+    <a href="https://www.codechef.com/users/rcp_221107017">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" height="25" />
+    </a>
+  </h1>
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaishnavimarathe.vaishnavimarathe" />
 </div>
-
----
-
-<h1 align="center">👋 Hii, I'm <strong>Vaishnavi Narottam Marathe</strong></h1>
 
 ---
 
