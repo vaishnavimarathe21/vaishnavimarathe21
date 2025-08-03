@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/vmarathe21">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
-  <a href="mailto:marathekhushi6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
   <a href="https://www.codechef.com/users/rcp_221107017">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="25" />
   </a>
@@ -80,7 +77,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vaishnavimarathe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavimarathe&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavimarathe&layout=compact&theme=tokyonight&langs_count=6&hide_title=false" height="180" />
 </div>
 
 ---
@@ -105,4 +102,3 @@
 
 > “I believe in coding with purpose and learning with passion 🌟”  
 Let’s connect and build something meaningful together!
-
